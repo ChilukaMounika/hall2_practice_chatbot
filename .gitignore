@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env* 
+tests/
+.mcp.json
+playwright-script.js
+README.md.md 
