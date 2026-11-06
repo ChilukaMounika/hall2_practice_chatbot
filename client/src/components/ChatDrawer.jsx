@@ -9,6 +9,7 @@ const quickQuestions = [
     "What is the fee structure?",
     "How to apply for admissions?",
     "What is campus life like?",
+    "How can I contact the college office?",
 ];
 
 export default function ChatDrawer({ open, onClose }) {
